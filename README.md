@@ -7,4 +7,4 @@ Current Status:
 * 01_A_Prerequisite_Solved is checked and good
 * 01_b_Lecture is checked and good
 * 01_c_Lecture is checked and good
-* 02_a_Lecture is NOT checked
+* 02_a_Lecture is checked and good
