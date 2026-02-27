@@ -8,3 +8,5 @@ Current Status:
 * 01_b_Lecture is checked and good
 * 01_c_Lecture is checked and good
 * 02_a_Lecture is checked and good
+* requirements.txt is updated for Regression
+
