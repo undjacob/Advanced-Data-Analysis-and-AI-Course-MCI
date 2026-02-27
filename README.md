@@ -17,7 +17,9 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 * 01_b_Lecture is checked and good
 * 02_a_Lecture is checked and good
 * 02_b_Lecture is checked and good
+* 02_c_Lecture is checked and good
 * requirements.txt is updated for Dataset Analysis and Augmentations
++ For albumentations python version 3.10 or 3.11 is required --> Therefore this lecture is skipped here
 
 ### Data
 * Medical
