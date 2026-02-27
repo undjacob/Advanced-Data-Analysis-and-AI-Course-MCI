@@ -15,6 +15,8 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 ### Dataset Analysis and Augmentations
 * 01_a_Lecture is checked and good
 * 01_b_Lecture is checked and good
+* 02_a_Lecture is checked and good
+* 02_b_Lecture is checked and good
 * requirements.txt is updated for Dataset Analysis and Augmentations
 
 ### Data
