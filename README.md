@@ -46,3 +46,4 @@ As this github repository is updated regularly, see below the current status of 
 
 ### Important Notes
 * We have to use python 3.13.0 for compatibility with tensorflow. 3.14 ist NOT supported.
+* For those who have never worked with git and an IDE to develop code, please contact the lecturer for support
