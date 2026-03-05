@@ -22,6 +22,16 @@ As this github repository is updated regularly, see below the current status of 
 * 02_c_Lecture is checked and good
 * requirements.txt is updated for Dataset Analysis and Augmentations
 
+### xAI
+* 01_Lecture is checked and good (without GPU training time is quite long)
+* 02_Lecture is checked and good
+
+### Segmentation and Object Detection
+* 01_a_Lecture is checked and good 
+* 01_b_Lecture is checked and good
+
+### Dataset Analysis and Augmentations
+
 ### Data
 * Medical
     * Hospital is checked and good
@@ -32,6 +42,7 @@ As this github repository is updated regularly, see below the current status of 
     * Golf Impact is checked and good
 * Both 
     * ACL_Reha is checked and good
+    * Test_Images is checked and good
 
 ### Important Notes
 * We have to use python 3.13.0 for compatibility with tensorflow. 3.14 ist NOT supported.
