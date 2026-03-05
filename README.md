@@ -3,6 +3,8 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 
 ## Current Status of folders:
 
+As this github repository is updated regularly, see below the current status of the folders:
+
 ### Regression:
 * 01_a_Prerequisite is checked and good
 * 01_A_Prerequisite_Unsolved is checked and good
@@ -13,13 +15,12 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 * requirements.txt is updated for Regression
 
 ### Dataset Analysis and Augmentations
-* 01_a_Lecture is checked and good
+* 01_a_Prerequisite is checked and good
 * 01_b_Lecture is checked and good
 * 02_a_Lecture is checked and good
 * 02_b_Lecture is checked and good
 * 02_c_Lecture is checked and good
 * requirements.txt is updated for Dataset Analysis and Augmentations
-+ For albumentations python version 3.10 or 3.11 is required --> Therefore this lecture is skipped here
 
 ### Data
 * Medical
@@ -28,7 +29,9 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 * Sports
     * Data on Biathlon Shooting is checked and good
     * Data on American Football is checked and good
-
+    * Golf Impact is checked and good
+* Both 
+    * ACL_Reha is checked and good
 
 ### Important Notes
 * We have to use python 3.13.0 for compatibility with tensorflow. 3.14 ist NOT supported.
