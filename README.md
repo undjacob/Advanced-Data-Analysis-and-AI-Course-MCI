@@ -28,3 +28,7 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 * Sports
     * Data on Biathlon Shooting is checked and good
     * Data on American Football is checked and good
+
+
+### Important Notes
+* We have to use python 3.13.0 for compatibility with tensorflow. 3.14 ist NOT supported.
