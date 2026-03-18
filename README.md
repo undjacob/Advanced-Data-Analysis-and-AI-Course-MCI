@@ -30,7 +30,7 @@ As the course wants to adress medical and sports data, both are represented here
 * This is not a folder where we have notebooks
 * This folder is for self developed models, logs of training and potentially also plots from the process
 
-### Optical Flow
+### Optical Flow and Object Tracking
 * 01_a_Lecture is checked and good
 
 ### Regression:
