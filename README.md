@@ -53,6 +53,7 @@ As the course wants to adress medical and sports data, both are represented here
 ### xAI
 * 01_Lecture is checked and good (without GPU training time is quite long)
 * 02_Lecture is checked and good
+* 03_Lecture is checked and good
 
 
 ## Important Notes
