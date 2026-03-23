@@ -210,4 +210,8 @@ __marimo__/
 Optical_Flow_and_Object_Tracking/yolo26x.pt
 Optical_Flow_and_Object_Tracking/yolov8n.pt
 Pose_Estimation/yolov8n-pose.pt
+Pose_Estimation/yolov26x.pt
+Pose_Estimation/yolov26n-pose.pt
+Pose_Estimation/yolov8n-pose.pt
+Pose_Estimation/runs
 Data/Datagenerators
