@@ -26,6 +26,10 @@ As the course wants to adress medical and sports data, both are represented here
 * 02_b_Lecture is checked and good
 * 02_c_Lecture is checked and good
 
+### Decision Trees
+* 01_a_Prerequisite is checked and good
+* 01_b_Lecture is checked and good
+
 ### Network Development
 * This is not a folder where we have notebooks
 * This folder is for self developed models, logs of training and potentially also plots from the process
@@ -35,6 +39,9 @@ As the course wants to adress medical and sports data, both are represented here
 * 01_b_Lecture is checked and good
 * 02_a_Lecture is checked and good
 * 02_b_Lecture is checked and good
+
+### Pose Estimation
+* 01_a_Lecture is checked and good
 
 ### Regression:
 * 01_a_Prerequisite is checked and good
