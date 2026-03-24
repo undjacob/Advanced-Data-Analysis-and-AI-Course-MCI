@@ -5,6 +5,12 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 
 As this github repository is updated regularly, see below the current status of the folders:
 
+### Clustering
+* 01_a_Prerequisite is checked and good
+* 01_A_Prerequisite_Solution is checked and good
+* 01_A_Prerequisite_Unsolved is checked and good
+* 01_b_Lecture is checked and good
+
 ### Data
 As the course wants to adress medical and sports data, both are represented here:
 * Medical
@@ -42,6 +48,8 @@ As the course wants to adress medical and sports data, both are represented here
 
 ### Pose Estimation
 * 01_a_Lecture is checked and good
+* 01_b_Lecture is checked and good
+
 
 ### Regression:
 * 01_a_Prerequisite is checked and good
