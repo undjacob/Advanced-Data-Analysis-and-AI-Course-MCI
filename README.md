@@ -35,6 +35,8 @@ As the course wants to adress medical and sports data, both are represented here
 
 ### Decision Trees
 * 01_a_Prerequisite is checked and good
+* 01_A_Prerequisite_Selftest_Unsolved **todo**
+* 01_A_Prerequisite_Selftest_Solution **todo**
 * 01_b_Lecture is checked and good
 
 ### Network Development
@@ -50,7 +52,6 @@ As the course wants to adress medical and sports data, both are represented here
 ### Pose Estimation
 * 01_a_Lecture is checked and good
 * 01_b_Lecture is checked and good
-
 
 ### Regression:
 * 01_a_Prerequisite is checked and good
