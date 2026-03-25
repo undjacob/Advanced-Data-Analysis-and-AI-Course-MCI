@@ -6,6 +6,7 @@ This is the repository for the Advanced Data Analysis and AI Course at MCI in th
 As this github repository is updated regularly, see below the current status of the folders:
 
 ### Clustering
+* 00_a_Prerequisite_Clustering_Fundamentals **todo**
 * 01_a_Prerequisite is checked and good
 * 01_A_Prerequisite_Solution is checked and good
 * 01_A_Prerequisite_Unsolved is checked and good
