@@ -51,6 +51,9 @@ As the course wants to adress medical and sports data, both are represented here
 * 01_a_Lecture is checked and good
 * 01_b_Lecture is checked and good
 
+### Principle Component Analysis and Principle Movement
+* 01_a_Lecture is checked and good
+* 01_b_Lecture is checked and good
 
 ### Regression:
 * 01_a_Prerequisite is checked and good

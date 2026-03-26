@@ -207,7 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # Specific folders and files
-Olesia
 Optical_Flow_and_Object_Tracking/yolo26x.pt
 Optical_Flow_and_Object_Tracking/yolov8n.pt
 Pose_Estimation/yolov8n-pose.pt
