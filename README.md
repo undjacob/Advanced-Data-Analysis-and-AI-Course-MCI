@@ -77,4 +77,5 @@ As the course wants to adress medical and sports data, both are represented here
 
 ## Important Notes
 * We have to use python 3.13.0 for compatibility with tensorflow. 3.14 ist NOT supported.
+* We have to use python 3.11 for GPU usage in pytorch. Make sure that CUDA drivers are installed properly
 * For those who have never worked with git and an IDE to develop code, please contact the lecturer for support
