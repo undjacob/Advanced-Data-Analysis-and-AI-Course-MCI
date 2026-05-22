@@ -1,6 +1,10 @@
 # Advanced-Data-Analysis-and-AI-Course-MCI
 This is the repository for the Advanced Data Analysis and AI Course at MCI in the study program Medical and Sports Technologies
 
+## Content that has been covered in specific years
+
+To clarify, what content was covered in which year, there are other markdowns named Content_SS_20XX.md. Check the respective file to know what has been covered.
+
 ## Current Status of folders:
 
 As this github repository is updated regularly, see below the current status of the folders:
@@ -17,10 +21,12 @@ As the course wants to adress medical and sports data, both are represented here
 * Medical
     * Hospital is checked and good
     * Tibia Axis Determination is checked and good
+    * Electronic Health Record is checked and good
 * Sports
     * Data on Biathlon Shooting is checked and good
     * Data on American Football is checked and good
     * Golfball Impact is checked and good
+    * Darts is checked and good
 * Both 
     * ACL_Reha is checked and good
     * Test_Images is checked and good
