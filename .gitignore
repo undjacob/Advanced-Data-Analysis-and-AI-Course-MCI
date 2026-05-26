@@ -137,6 +137,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.direnv/
 .venv
 env/
 venv/
@@ -218,3 +219,5 @@ Data/Datagenerators
 Data/GravityMTB
 temp
 runs
+.python-version
+pyproject.toml
